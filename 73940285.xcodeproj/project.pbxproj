@@ -13,6 +13,7 @@
 		F267BFCA28EEAB1400BFAD3D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F267BFC828EEAB1400BFAD3D /* Main.storyboard */; };
 		F267BFCC28EEAB1500BFAD3D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F267BFCB28EEAB1500BFAD3D /* Assets.xcassets */; };
 		F267BFCF28EEAB1500BFAD3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F267BFCD28EEAB1500BFAD3D /* LaunchScreen.storyboard */; };
+		F267BFDB28EEAE3E00BFAD3D /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F267BFDA28EEAE3E00BFAD3D /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F267BFCB28EEAB1500BFAD3D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F267BFCE28EEAB1500BFAD3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F267BFD028EEAB1500BFAD3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F267BFDA28EEAE3E00BFAD3D /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F267BFC228EEAB1400BFAD3D /* AppDelegate.swift */,
 				F267BFC428EEAB1400BFAD3D /* SceneDelegate.swift */,
 				F267BFC628EEAB1400BFAD3D /* ViewController.swift */,
+				F267BFDA28EEAE3E00BFAD3D /* Extensions.swift */,
 				F267BFC828EEAB1400BFAD3D /* Main.storyboard */,
 				F267BFCB28EEAB1500BFAD3D /* Assets.xcassets */,
 				F267BFCD28EEAB1500BFAD3D /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				F267BFC728EEAB1400BFAD3D /* ViewController.swift in Sources */,
 				F267BFC328EEAB1400BFAD3D /* AppDelegate.swift in Sources */,
+				F267BFDB28EEAE3E00BFAD3D /* Extensions.swift in Sources */,
 				F267BFC528EEAB1400BFAD3D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
